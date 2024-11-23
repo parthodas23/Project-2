@@ -4,4 +4,4 @@ How to add local repo
 
 # Name
 
-This repo added by Partho.
+This repo is added by Partho.
